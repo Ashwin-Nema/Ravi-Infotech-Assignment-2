@@ -1,0 +1,96 @@
+
+body {
+  margin: 0;
+  background-color: #eef0f3;
+}
+
+
+.App {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 2vw;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  margin-top: 1vw;
+}
+
+.mainsection {
+  background-color:white;
+  border-radius: 1vw 0 0 0;
+  padding:1rem;
+}
+
+.space-between {
+  display: flex;
+  justify-content:space-between;
+}
+
+
+.transformsmallerscale6smaller {
+  transform:scale(0.6)
+}
+
+
+.transformsmallerscale7smaller {
+  transform:scale(0.7)
+}
+
+.transformsmallerscale8smaller {
+  transform:scale(0.8)
+}
+.transformsmallerscale9smaller {
+  transform:scale(0.9)
+}
+
+.alertgrid {
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.alerts .MuiAlert-message {
+  width:100%
+}
+
+.subcontainer1 {
+  background-color: #f6f6f6 !important;
+}
+
+.smalltext {
+  font-size:small;
+}
+
+.flexend {
+  display: flex;
+  justify-content:end;
+}
+
+.greybutton {
+  background-color: darkgrey !important;
+}
+
+.lightgreenbackground {
+  background-color:lightgreen !important;
+}
+
+.tiltedhammer {
+  transform:rotate(60deg);
+}
+
+.lightorangechip {
+  background-color: #fad694 !important;
+  color:orange !important;
+}
+.rightnegativemargin1 {
+  margin-right: -0.5rem;
+}
+.rightnegativemargin {
+  margin-right: -2rem !important;
+}
+
+.rightnegativemargin5 {
+  margin-right: -5rem !important;
+}
+
+.rotatedarrows {
+  transform:rotate(180deg) !important;
+}

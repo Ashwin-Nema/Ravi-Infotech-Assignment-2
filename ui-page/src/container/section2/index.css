@@ -1,0 +1,48 @@
+.alertsection2 .css-rob5aa-MuiPaper-root-MuiAlert-root {
+  padding: 0;
+}
+
+.alertsection2 .css-1pxa9xg-MuiAlert-message {
+  padding: 4px 2px;
+}
+
+.threecolumngrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 3vw;
+  align-items: center;
+}
+
+.text-purple {
+  --bs-text-opacity: 1;
+  color: #c3cdff !important;
+}
+
+.text-messagecolor {
+  color: #d9df9c !important;
+}
+
+.lightgreybutton {
+  background-color: lightgray !important;
+}
+
+.verysmalltext {
+  font-size: x-small;
+}
+ .css-advny6-MuiPopper-root{
+  background: #ffff !important;
+  padding:1rem;
+}
+
+.textlightgrey {
+  color:lightgray
+}
+
+.lightyellowbackground {
+  background-color: yellow !important;
+  
+}
+
+.scale2transform {
+  transform: scale(2)
+}
